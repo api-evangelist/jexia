@@ -1,0 +1,63 @@
+{
+    "name": "Jexia",
+    "description": "JEXIA is the place to build APIs, deploy APPs and manage all your data streams.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18976-jexia.jpg",
+    "tags": [
+        "api service provider",
+        "cloud",
+        "deployment",
+        "have api",
+        "management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/jexia\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Jexia",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18976-jexia.jpg",
+            "humanURL": "https:\/\/www.jexia.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/jexia-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/jexia.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/jexia.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/jexia"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/jexia-inc"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/jexiacom"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.jexia.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.jexia.com\/"
+        }
+    ]
+}
